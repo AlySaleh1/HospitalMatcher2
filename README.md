@@ -2,7 +2,7 @@
 Our project for HacktheNorth 2021.
 
 ## Inspiration
-In many developing countries, for example, Cairo, you often need to drive to a hospital yourself in case of an emergency. 
+In many developing countries, you often need to drive to a hospital yourself in case of an emergency. 
 In such urgent situations, time is the most valuable and crucial factor, and if one end up driving the patient to mulitple hospitals until finding an available spot, the time lost can be devastating. 
 
 ## What it does
